@@ -16,3 +16,8 @@
 2023-04-19 19:44:11 info: tempDirectory:c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\temp
 2023-04-19 19:44:11 info: Extraction complete for source: c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\temp
 2023-04-19 19:44:11 info: Congratulations, your extension "Embold" is now active!
+2023-04-19 20:28:37 info: tempDirectory:c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-19 20:28:37 info: Extraction complete for source: c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\pikipupiba\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-19 20:28:37 info: Congratulations, your extension "Embold" is now active!
+2023-04-19 20:28:50 info: file:///h%3A/GitHub/Auto-GPT/.git/index.lock
+2023-04-19 20:28:50 error: SQLITE_ERROR: no such table: issues
